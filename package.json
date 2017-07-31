@@ -1,0 +1,16 @@
+{
+  "name": "broccoli-blog-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "broccoli-plugin": "^1.3.0",
+    "file-extension": "^3.1.2",
+    "json-api-serializer": "^1.9.0",
+    "walk-sync": "^0.3.2",
+    "yaml-front-matter": "^3.4.0"
+  },
+  "devDependencies": {
+    "ember-cli": "^2.14.1"
+  }
+}
