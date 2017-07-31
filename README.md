@@ -1,5 +1,7 @@
 # Broccoli Blog API
 
+[![npm version](https://badge.fury.io/js/broccoli-blog-api.svg)](https://badge.fury.io/js/broccoli-blog-api)
+
 > Warning this plugin is in very experimental early development and will probably change alot.
 > If you have ideas or questions add an Issue to the Github Repository.
 
