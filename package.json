@@ -1,13 +1,12 @@
 {
   "name": "broccoli-blog-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/rtablada/broccoli-blog-api.git"
+    "type": "git",
+    "url": "https://github.com/rtablada/broccoli-blog-api.git"
   },
-
   "dependencies": {
     "broccoli-plugin": "^1.3.0",
     "file-extension": "^3.1.2",
